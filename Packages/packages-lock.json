@@ -144,6 +144,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "org.bci2000.unitybci2000": {
+      "version": "https://github.com/s-n-1-0/UnityBCI2000.git#tutorial",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f949305906845b549fddd46c7f8a72779afc776b"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
